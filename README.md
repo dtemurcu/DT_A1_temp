@@ -1,8 +1,8 @@
 # ⚡ ECSE 563 – Assignment 1: Network Analysis  
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue?logo=mathworks)](https://www.mathworks.com/)  
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2025b-blue?logo=mathworks)](https://www.mathworks.com/)  
 ![Power Systems](https://img.shields.io/badge/Topic-Power%20Systems-green)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+
 
 ---
 
