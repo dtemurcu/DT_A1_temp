@@ -22,7 +22,6 @@ This project covers:
 src/ → MATLAB functions (admittance, impedance, fault, genthevenin, genfault)  
 data/ → IEEE test systems (ieee9_A1.m, ieee24_A1.m)  
 report/ → Final PDF report (DT_A1.pdf)  
-figs/ → Exported figures (optional)  
 README.md → This file  
 
 ---
@@ -92,9 +91,8 @@ Full write-up: [report/DT_A1.pdf](report/DT_A1.pdf)
 
 ---
 
-## ⚖️ License  
-MIT — see [LICENSE](LICENSE).  
+
 
 ---
 
-🔥 Thanks for checking this out!
+Thanks for reading
